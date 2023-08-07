@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HWPML [
+	<!ENTITY nbsp	"&#160;">
+]>
+<HWPML Version="2.1"><HEAD SecCnt="1"><DOCSUMMARY><TITLE>(국립수산물품질관리원) 소독제 효력시험지침</TITLE>
+<AUTHOR>법제처 법령정보센터</AUTHOR>
+<DATE>2023.08.07</DATE>
+</DOCSUMMARY>
+<DOCSETTING><BEGINNUMBER Page="1" Footnote="1" Endnote="1" Picture="1" Table="1" Equation="1"/>
+<CARETPOS List="0" Para="0" Pos="24"/>
+</DOCSETTING>
+<MAPPINGTABLE><BINDATALIST Count="5"><BINITEM Type="Embedding" BinData="1" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="2" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="3" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="4" Format="gif"/>
+<BINITEM Type="Embedding" BinData="5" Format="png"/>
+</BINDATALIST>
+<FACENAMELIST><FONTFACE Lang="Hangul" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Latin" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Hanja" Count="4"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Japanese" Count="4"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Other" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Symbol" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="User" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+</FACENAMELIST>
+<BORDERFILLLIST Count="11"><BORDERFILL Id="1" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+<BORDERFILL Id="2" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="3" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="4" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="5" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="6" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="7" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="8" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="9" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="10" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="11" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+</BORDERFILLLIST>
+<CHARSHAPELIST Count="26"><CHARSHAPE Id="0" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="1" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="2" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="3" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="4" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="5" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="6" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="7" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="8" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="9" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="-50" Latin="-50" Hanja="-50" Japanese="-50" Other="-50" Symbol="-50" User="-50"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="10" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="11" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="12" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="13" Height="1100" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="14" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="15" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="16" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="true" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="17" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="true" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="18" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="19" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="3" Japanese="3" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="20" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="21" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="1" Japanese="1" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="22" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="1" Japanese="1" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="23" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="24" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="25" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="26" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="74" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="99" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+</CHARSHAPELIST>
+<TABDEFLIST Count="3"><TABDEF Id="0" AutoTabLeft="false" AutoTabRight="false"/>
+<TABDEF Id="1" AutoTabLeft="true" AutoTabRight="false"/>
+<TABDEF Id="2" AutoTabLeft="false" AutoTabRight="true"/>
+</TABDEFLIST>
+<NUMBERINGLIST Count="1"><NUMBERING Id="1" Start="0"><PARAHEAD Level="1" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit">^1.</PARAHEAD>
+<PARAHEAD Level="2" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="HangulSyllable">^2.</PARAHEAD>
+<PARAHEAD Level="3" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit">^3)</PARAHEAD>
+<PARAHEAD Level="4" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="HangulSyllable">^4)</PARAHEAD>
+<PARAHEAD Level="5" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="6" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="7" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" NumFormat="Digit"></PARAHEAD>
+</NUMBERING>
+</NUMBERINGLIST>
+<PARASHAPELIST Count="41"><PARASHAPE Id="0" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="1" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2620" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="1" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="true"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="2" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="3" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="3000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="4" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="5" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="1" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="6" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="2" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="6000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="7" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="3" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="8000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="8" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="4" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="10000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="9" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="5" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="12000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="10" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="6" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="14000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="11" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="12" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="13" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="100"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="14" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="15" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="16" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="17" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="18" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="19" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="20" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="21" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="22" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="23" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="24" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2336" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="25" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="26" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3904" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="27" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="1400" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="28" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="29" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="2296" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="30" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7800" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="31" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="32" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="33" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="34" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="35" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="36" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1900" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="37" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="38" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-6500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="39" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="40" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="74" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+</PARASHAPELIST>
+<STYLELIST Count="14"><STYLE Id="0" Type="Para" Name="바탕글" EngName="Normal" ParaShape="2" CharShape="1" NextStyle="0" LangId="1042"/>
+<STYLE Id="1" Type="Para" Name="본문" EngName="Body" ParaShape="3" CharShape="1" NextStyle="1" LangId="1042"/>
+<STYLE Id="2" Type="Para" Name="개요 1" EngName="Outline 1" ParaShape="4" CharShape="1" NextStyle="2" LangId="1042"/>
+<STYLE Id="3" Type="Para" Name="개요 2" EngName="Outline 2" ParaShape="5" CharShape="1" NextStyle="3" LangId="1042"/>
+<STYLE Id="4" Type="Para" Name="개요 3" EngName="Outline 3" ParaShape="6" CharShape="1" NextStyle="4" LangId="1042"/>
+<STYLE Id="5" Type="Para" Name="개요 4" EngName="Outline 4" ParaShape="7" CharShape="1" NextStyle="5" LangId="1042"/>
+<STYLE Id="6" Type="Para" Name="개요 5" EngName="Outline 5" ParaShape="8" CharShape="1" NextStyle="6" LangId="1042"/>
+<STYLE Id="7" Type="Para" Name="개요 6" EngName="Outline 6" ParaShape="9" CharShape="1" NextStyle="7" LangId="1042"/>
+<STYLE Id="8" Type="Para" Name="개요 7" EngName="Outline 7" ParaShape="10" CharShape="1" NextStyle="8" LangId="1042"/>
+<STYLE Id="9" Type="Para" Name="쪽 번호" EngName="Page Number" ParaShape="2" CharShape="0" NextStyle="9" LangId="1042"/>
+<STYLE Id="10" Type="Para" Name="머리말" EngName="Header" ParaShape="11" CharShape="2" NextStyle="10" LangId="1042"/>
+<STYLE Id="11" Type="Para" Name="각주" EngName="Footnote" ParaShape="0" CharShape="3" NextStyle="11" LangId="1042"/>
+<STYLE Id="12" Type="Para" Name="미주" EngName="Endnote" ParaShape="0" CharShape="3" NextStyle="12" LangId="1042"/>
+<STYLE Id="13" Type="Para" Name="메모" EngName="Memo" ParaShape="1" CharShape="4" NextStyle="13" LangId="1042"/>
+</STYLELIST>
+</MAPPINGTABLE>
+</HEAD>
+<BODY><SECTION Id="0">
+
+<P ParaShape="34"><TEXT CharShape="10"><SECDEF SpaceColumns="1134" TabStop="8000" OutlineShape="1"><STARTNUMBER PageStartsOn="Both" Page="0" Figure="0" Table="0" Equation="0"/>
+<HIDE Header="false" Footer="false" MasterPage="false" Border="false" Fill="false" PageNumPos="false" EmptyLine="false"/>
+<PAGEDEF Landscape="0" Width="59528" Height="84188" GutterType="LeftOnly"><PAGEMARGIN Left="4252" Right="4252" Top="5669" Bottom="4252" Header="3600" Footer="3600" Gutter="0"/>
+</PAGEDEF>
+<FOOTNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="5cm" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="283"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EachColumn" BeneathText="false"/>
+</FOOTNOTESHAPE>
+<ENDNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="14692344" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="0"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EndOfDocument" BeneathText="false"/>
+</ENDNOTESHAPE>
+<PAGEBORDERFILL Type="Both" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Even" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Odd" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+</SECDEF>
+<COLDEF Type="Newspaper" Count="1" Layout="Left" SameSize="true"/>
+<PICTURE><SHAPEOBJECT InstId="1517942633" ZOrder="14" NumberingType="Figure" TextWrap="BehindText" Lock="false"><SIZE Width="5556" Height="5556" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="false" VertRelTo="Para" HorzRelTo="Column" VertAlign="Top" HorzAlign="Left" VertOffset="-901" HorzOffset="45187" FlowWithText="false" AllowOverlap="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="-2647" YPos="-2016" GroupLevel="0" OriWidth="10208" OriHeight="12300" CurWidth="10681" CurHeight="12870" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="2778" CenterY="2778"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="-2647.00" E4="0.00" E5="1.00" E6="-2016.00"/><SCAMATRIX E1="1.05" E2="0.00" E3="0.00" E4="0.00" E5="1.05" E6="0.00"/><ROTMATRIX E1="1.04" E2="0.00" E3="-102.42" E4="0.00" E5="1.04" E6="-76.05"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="1.01" E2="0.00" E3="-22.70" E4="0.00" E5="1.01" E6="-15.04"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.75" E2="0.00" E3="0.00" E4="0.00" E5="0.75" E6="0.00"/><ROTMATRIX E1="1.19" E2="0.00" E3="-494.20" E4="0.00" E5="1.19" E6="-374.90"/><SCAMATRIX E1="0.80" E2="0.00" E3="-166.00" E4="0.00" E5="0.80" E6="2941.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-0.45"/><SCAMATRIX E1="0.82" E2="0.00" E3="-17.00" E4="0.00" E5="0.79" E6="0.00"/><ROTMATRIX E1="1.21" E2="0.00" E3="-927.59" E4="0.00" E5="1.45" E6="227.53"/><SCAMATRIX E1="0.70" E2="0.00" E3="5430.00" E4="0.00" E5="0.73" E6="-584.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="0.69" E6="-195.65"/></RENDERINGINFO></SHAPECOMPONENT><LINESHAPE Color="11866128" Width="85" Style="Solid" EndCap="Round" OutlineStyle="Outer"/><IMAGERECT X0="0" Y0="0" X1="10208" Y1="0" X2="10208" Y2="12300" X3="0" Y3="12300"/><IMAGECLIP Left="567" Top="567" Right="14433" Bottom="14433"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="5"/></PICTURE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+<P ParaShape="35"><TEXT CharShape="10"><CHAR>(국립수산물품질관리원) 소독제 효력시험지침</CHAR>
+</TEXT>
+</P>
+<P ParaShape="16"><TEXT CharShape="12"><HEADER ApplyPageType="Both" TextWidth="48190" TextHeight="2835" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Top"><P ParaShape="13"><TEXT CharShape="8"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="1" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155746" ZOrder="0" NumberingType="Table" Lock="false"><SIZE Width="50929" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true" HoldAnchorAndSO="false"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/>
+<ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="50929" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="4"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="13"><TEXT CharShape="99"><CHAR>(국립수산물품질관리원) 소독제 효력시험지침</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+</ROW>
+</TABLE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+<P ParaShape="12"><TEXT CharShape="9"/>
+</P>
+</PARALIST>
+</HEADER>
+<FOOTER ApplyPageType="Both" TextWidth="48190" TextHeight="2835" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Bottom"><P ParaShape="14"><TEXT CharShape="9"/>
+</P>
+<P ParaShape="15"><TEXT CharShape="9"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="3" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155747" ZOrder="1" NumberingType="Table" Lock="false"><SIZE Width="51024" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true" HoldAnchorAndSO="false"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/>
+<ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="19" Style="10"><TEXT CharShape="99"><PICTURE><SHAPEOBJECT InstId="1201155748" ZOrder="2" NumberingType="Figure" Lock="false"><SIZE Width="1828" Height="1131" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<SHAPECOMPONENT XPos="0" YPos="-2469" GroupLevel="0" OriWidth="23760" OriHeight="14700" CurWidth="22847" CurHeight="14137" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="914" CenterY="565"/>
+<RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-2469.00"/>
+<SCAMATRIX E1="0.96" E2="0.00" E3="0.00" E4="0.00" E5="0.96" E6="94.48"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+<SCAMATRIX E1="0.08" E2="0.00" E3="0.00" E4="0.00" E5="0.08" E6="2469.00"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+</RENDERINGINFO>
+</SHAPECOMPONENT>
+<IMAGERECT X0="0" Y0="0" X1="23760" Y1="0" X2="23760" Y2="14700" X3="0" Y3="14700"/>
+<IMAGECLIP Left="0" Top="0" Right="23700" Bottom="14640"/>
+<INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+<IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="3"/>
+</PICTURE>
+<CHAR>&nbsp;법제처</CHAR>
+</TEXT>
+<TEXT CharShape="99"><CHAR></CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+<CELL ColAddr="1" RowAddr="0" ColSpan="1" RowSpan="1" Width="25701" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="18" Style="10"><TEXT CharShape="26"><CHAR>-&nbsp;</CHAR>
+<AUTONUM Number="1" NumberType="Page"><AUTONUMFORMAT Type="Digit" Superscript="false"/>
+</AUTONUM>
+<CHAR>&nbsp;/&nbsp;</CHAR>
+<AUTONUM Number="1" NumberType="TotalPage"><AUTONUMFORMAT Type="Digit" Superscript="false"/>
+</AUTONUM>
+<CHAR>&nbsp;-</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+<CELL ColAddr="2" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="20" Style="10"><TEXT CharShape="99"><PICTURE><SHAPEOBJECT InstId="1310949373" ZOrder="3" NumberingType="Figure" Lock="false"><SIZE Width="1417" Height="1417" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/>
+<POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/>
+<OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+</SHAPEOBJECT>
+<SHAPECOMPONENT XPos="0" YPos="-887" GroupLevel="0" OriWidth="2760" OriHeight="2760" CurWidth="1416" CurHeight="1416" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="708" CenterY="708"/>
+<RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-887.00"/>
+<SCAMATRIX E1="0.51" E2="0.00" E3="0.00" E4="0.00" E5="0.51" E6="887.00"/>
+<ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/>
+</RENDERINGINFO>
+</SHAPECOMPONENT>
+<IMAGERECT X0="0" Y0="0" X1="2760" Y1="0" X2="2760" Y2="2760" X3="0" Y3="2760"/>
+<IMAGECLIP Left="0" Top="0" Right="2700" Bottom="2700"/>
+<INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/>
+<IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="2"/>
+</PICTURE>
+<CHAR>&nbsp;국가법령정보센터</CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</CELL>
+</ROW>
+</TABLE>
+<CHAR></CHAR>
+</TEXT>
+</P>
+</PARALIST>
+</FOOTER>
+</TEXT>
+<TEXT CharShape="12"><CHAR>[시행 2021. 3. 1.] [국립수산물품질관리원고시 제2021-2호, 2021. 2. 24., 일부개정.]</CHAR>
+</TEXT>
+</P>
+<P ParaShape="16"><TEXT CharShape="6"/></P>
+<P ParaShape="17"><TEXT CharShape="25"><CHAR>국립수산물품질관리원(수산방역과), 051-720-3041</CHAR></TEXT></P>
+<P ParaShape="2"><TEXT CharShape="5"/>
+</P>
+{전문}
+<P ParaShape="23"><TEXT CharShape="6"><CHAR>제1조(목적)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 이 지침은 「약사법」 제31조, 제42조 및 제85조제1항, 「동물용의약품등 취급규칙」 제7조제1항ㆍ제2항,「수산용 동물용의약품등 안전성ㆍ유효성 심사에 관한 규정」제7조제1항제6호다목에 따라 제출되는 수산용 동물용의약외품인 소독약품의 효력시험에 관한 세부사항을 정함을 목적으로 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제2조(정의)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 이 지침에서 사용하는 용어의 뜻은 다음 각 호와 같다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. "소독제"란 수산동물질병 방역의 목적으로 양식장, 수산동물 사체(이하 "사체"라 한다) 등 소독대상에 적용하여 병원미생물을 사멸 또는 증식억제토록 작용하는 제제를 말한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. "소독대상"이란 병원체에 오염되었거나 오염되었을 우려가 있는 사체, 사육수조, 양식장 바닥 및 배관, 차량 및 운반용구, 유입수, 배출수, 오물, 기구 등을 말하며, "소독대상의 분류"는 소독 대상의 유기물 함량에 따라서 분류하되, 일반적으로 사체, 사육수조, 차량 및 운반용구, 배출수, 오물 등은 유기물이 많이 함유된 대상으로, 양식장 바닥 및 배관, 유입수, 기구, 일반차량 등은 유기물이 적게 함유된 대상으로 분류한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. "유기물"이란 소독의 효력에 영향을 주는 것으로 탄수화물, 지방 또는 단백질 등이 들어 있는 수산동물(이하 "동물"이라 한다)의 분비물, 배설물, 장내용물, 혈액, 동물의 조직, 사료찌꺼기 등을 말한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  4. "소독대상 병원체"란 동물의 건강한 사육을 위하여 사멸 또는 증식억제의 대상이 되는 병원성을 갖고 있는 병원체들을 의미하며, 다음 각 목과 같이 구분한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    가. "특정 병원체"란 허가항목의 소독대상 병원체에 특정 병원체명 (또는 특정 질병명)을 기재하는 경우를 의미하고,</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    나. "일반 병원체"란 허가항목의 소독대상 병원체에 대표균주에 대한 시험의 결과에 따라 포괄적으로 사용되는 것으로 특정 병원체명이 아닌 ‘세균, 아포 또는 곰팡이’등의 용어로 기재하는 경우를 말한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  5. "경수"란 증류수 1 리터(liter)에 CaCl2 0.305g과 MgCl2.ㆍ6H2O 0.139g(w/v)을 함유한 것을 의미한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  6. "유기물희석액"이란 소독제의 희석을 위해 사용되는 유기물을 함유한 경수를 의미하며, 세균용 및 곰팡이의 유기물희석액은 5%(w/v) 효모추출물(yeast extract)을, 바이러스용의 유기물희석액은 5% 소태아혈청(fetal bovine serum)을 함유한 액체를 의미한다. 이 중 세균용 및 곰팡이의 유기물희석액의 조제방법은 효모추출물 20%(w/v)가 함유되도록 경수에 용해한 다음 고압멸균(121℃ 15분)하여 4℃에 보관하면서, 사용 시에는 경수로 4배 희석하여 5% 함량의 유기물희석액으로 만들되, 1N 수산화나트륨액으로 pH7.0이 되도록 조정한 것이다. 이때 소독제의 성분이 요오드포류(iodophors)인 경우는 6주 이상 보관 후 사용한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제3조(표준시험법)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 표준시험법에 관한 구체적인 사항은 별지 1의 "세균 등의 소독제 효력시험", 별지 2의 "바이러스의 소독제 효력시험", 별지 3의 "곰팡이의 소독제 효력시험"규정에 따른다. 다만, 아포세균, 결핵균, 곰팡이 및 특정 병원체에 관한 세부시험과 기타 이 지침에서 규정하지 않은 세부사항은 국립수산물품질관리원장의 승인을 받아 시험을 실시하는 것을 원칙으로 한다. ① "표준시험조건"이란 소독대상 병원체를 함유한 증류수희석액, 경수희석액 또는 유기물희석액을 각각 소독제를 함유한 증류수, 경수 및 유기물 희석액과 동량 혼합 후 4℃에서 30분간(결핵균 또는 아포는 60분) 처리하는 조건을 의미한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② "선택시험조건"이란 표준시험조건 외에 제제 특성과 소독대상 등에 따라 반응시간(1분, 5분, 15분 등)과 반응온도(-10℃, -5℃, 4℃, 10℃ 등)를 추가로 선택하여 처리하는 조건을 의미한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ "소독제 유효희석배수 결정시험 설계 시 처리구"란 다음 표의 내용과 같다. 이때 표시 +와 -는 각 처리구의 성분구성 여부를 의미하며, 유기물의 무ㆍ저ㆍ고는 결과활용 시 소독대상의 유기물 함유 정도를 의미한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>&nbsp;</CHAR><PICTURE><SHAPEOBJECT InstId="1517942632" ZOrder="8" NumberingType="Figure" TextFlow="BothSides" Lock="false"><SIZE Width="56164" Height="16112" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="0" YPos="0" GroupLevel="0" OriWidth="7390" OriHeight="2120" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="4960" CenterY="480"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/></RENDERINGINFO></SHAPECOMPONENT><IMAGERECT X0="0" Y0="0" X1="7390" Y1="0" X2="7390" Y2="2120" X3="0" Y3="2120"/><IMAGECLIP Left="0" Top="0" Right="0" Bottom="0"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="4"/></PICTURE><CHAR> </CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ "유효희석배수"란 시험조건에서 효력이 인정되는 최소량의 유효성분에 대한 희석액의 배수로 표기한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ "유효희석배수의 판정"은 증류수희석액, 경수희석액, 유기물희석액의 3가지 조건에서 실시한 각각의 시험결과에 대한 것이며, 제3조제2항의 시험설계에 따른 처리구 2와 3은 처리구 4를, 처리구 1은 처리구 5를 대조로 하여 다음 각 호와 같이 판정한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 세균의 경우는 별지 1과 같이 시험하여, 5개의 동일 소독제 희석배수의 영양배지에서 2개 이상 증식이 인정되지 않는 최종 소독희석 단계를 유효농도로 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 바이러스의 경우는 원칙적으로 표준시험조건에서 병원체 대조군과 비교하여 병원체가 104 PFU(또는 TCID50, EID50, LD50 등)(대수차이로 1)의 사멸 또는 불활화가 확인된 희석배수를 유효농도로 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 시험제품에 대한 최종 희석배수는 20%의 오차범위 내의 3반복 시험결과의 중위수(median)로 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑥ 제1항부터 제4항까지의 규정에도 불구하고 곰팡이용 소독제에 대한 시험조건, 처리구, 유효희석 배수의 판정 등은 별지 3 곰팡이의 소독제 효력시험 기준에 따른다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제4조(효력시험결과 활용)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 권장희석배수는 유효희석배수의 80%값에 해당되는 희석배수로 정하며, 제2조의 소독대상 분류에 따라 병원체명(질병명)별로 희석배수를 구분하여 표기한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제4조의2(시험제품의 관리 등)</CHAR></TEXT><TEXT CharShape="5"><CHAR> ① 효력시험 실시 전 시험제품은 해양수산부장관이 지정한 검사기관(이하 "검사기관"이라 한다)에서 함량검사를 받아야 하며, 함량검사 결과는 유효성분 함량기준(95~105%)에 적합하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ② 효력시험 의뢰자(이하 "의뢰자"라 한다)는 동일한 제조단위(롯트)의 시험제품 최소 3개 이상을 검사기관에 제공하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ③ 제①항에 따른 함량검사 결과가 적합할 경우 검사기관은 시험제품 2개 이상을 봉인하여 의뢰자에게 송부하여야 하며, 이 경우 의뢰자는 1개 이상은 효력시험기관에 제공하여야 하며, 1개는 유효기간에 1년을 더하여 보관하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ④ 효력시험기관은 제공받은 시험제품의 봉인 상태 및 함량시험 결과를 확인하여 이상이 없는 경우 시험을 실시하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="36" Style="0"><TEXT CharShape="5"><CHAR>  ⑤ 기타 소독제 효력시험기관 및 의뢰자의 임무 등 관리사항은 국립수산물품질관리원장이 정한 "수산용 동물용의약품등 임상시험 관리지침"의 제12조, 제15조 및 제19조를 준용한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제5조(효력시험결과 제출)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 효력시험결과 제출에 적용하는 시험방법 및 보고서 내용은 다음 각 호와 같다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  1. 세균 등의 제2조제4호나목의 일반병원체를 소독대상으로 할 경우에는 별지 1의 대표균주에 대한 성적을 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  2. 세균, 바이러스 또는 곰팡이의 특정 병원체를 소독대상으로 할 경우에는 별지 1부터 별지 3까지 제시된 해당 시험방법에 따라 실시한 성적을 제출한다. 다만, 소독제의 성분특성과 시험세균, 바이러스 및 곰팡이의 생물학적 특성에 따라 소독제 효능을 검사하는 과학적 공인방법이 있는 경우에는 제3조에 의거하여 시험방법을 적절히 변경할 수 있다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="37" Style="0"><TEXT CharShape="5"><CHAR>  3. 안전성 유효성 심사를 위해 실시하는 소독제의 효력시험결과 보고서는 다음 각 목의 사항을 포함하여야 한다.</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    가. 시험제목, 시험목적 및 시험성적요약</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    나. 시험의뢰자 성명 및 소속기관</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    다. 시험기관의 명칭, 소재지, 시험기관장 성명</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    라. 시험책임자 및 담당자의 성명, 소속 및 직책</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    마. 시험제품의 제품명, 제조번호, 제조일자 및 원료약품분량</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    바. 시험기간, 시험방법, 시험성적 및 평가기준</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    사. 시험세균, 바이러스 및 곰팡이의 성상 및 출처</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    아. 시험제품의 동물, 취급자, 사물, 기구 및 환경 등에 미치는 영향 및 주의사항</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="38" Style="0"><TEXT CharShape="5"><CHAR>    자. 시험결과에 대한 시험책임자의 종합의견</CHAR></TEXT><TEXT CharShape="7" /></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제6조(시험제한)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 해외악성전염병의 소독제 시험은 국내시험을 제한하며, 수산생물전염병 병원체로서 전염성의 우려가 있거나 공중위생상 특별한 주의를 요하는 시험은 국립수산물품질관리원장의 사전허가를 받아야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제7조(보칙)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 이 지침에서 규정하지 아니한 소독제의 효력에 관한 사항은 외국의 사례 및 과학적 근거 등을 제시하여 국립수산물품질관리원장의 승인을 받아 시험을 실시할 수 있다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR>제8조(재검토기한)</CHAR></TEXT><TEXT CharShape="5"><CHAR> 국립수산물품질관리원장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2021년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="7"/></P>
+<P ParaShape="2"><TEXT CharShape="5"/></P><P ParaShape="2"><TEXT CharShape="6"><CHAR>&nbsp;&nbsp;&nbsp;&nbsp;부칙&nbsp;</CHAR></TEXT><TEXT CharShape="23"><CHAR>&nbsp;&lt;제2021-2호, 2021. 2. 24.&gt; &nbsp;</CHAR></TEXT></P><P ParaShape="24"><TEXT CharShape="5"><CHAR>이 고시는 2021년 3월 1일부터 시행한다.</CHAR></TEXT><TEXT CharShape="7"/></P><P ParaShape="23"><TEXT CharShape="6"><CHAR></CHAR></TEXT><TEXT CharShape="6"><CHAR>   </CHAR></TEXT></P>
+<P ParaShape="23"><TEXT CharShape="6"><CHAR>&nbsp;&nbsp;&nbsp;&nbsp;별표 / 서식&nbsp;</CHAR></TEXT></P>
+<P ParaShape="23"><TEXT CharShape="6"><CHAR></CHAR></TEXT><TEXT CharShape="6"><CHAR>[별지 1] 세균 등의 소독제 유효희석배수 결정시험</CHAR></TEXT></P>
+<P ParaShape="23"><TEXT CharShape="6"><CHAR></CHAR></TEXT><TEXT CharShape="6"><CHAR>[별지 2] 바이러스의 소독제 유효희석배수 결정시험</CHAR></TEXT></P>
+<P ParaShape="23"><TEXT CharShape="6"><CHAR></CHAR></TEXT><TEXT CharShape="6"><CHAR>[별지 3] 곰팡이의 소독제 유효희석배수 결정시험</CHAR></TEXT></P>
+
+
+
+</SECTION>
+</BODY>
+<TAIL><BINDATASTORAGE><BINDATA Size="84377" Encoding="Base64" Id="1">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</BINDATA>
+<BINDATA Size="5750" Encoding="Base64" Id="2">Qk1mEAAAAAAAADYAAAAoAAAAJQAAACUAAAABABgAAAAAADAQAAAAAAAAAAAAAAAAAAAAAAAA
+/////////////////////////////////v/+/P///v//////////////////////+f//4v/9
+6e7n9ezk/////////////////////////P/9////////////////////////////////////
+////AP////////////////////////////////////////////7//v349P////D9/0/bsTx/
+S2UyDmknA2UyDmUyDm4+JpNnT9C+uP//////////////////////////////////////////
+/////////wD///////7//v7//v/+/v7+/v78/f////////////++o47Qp5f////Z+vcSq3Ij
+YBJdJANlDwBaFwFaFwFTDQBJAgBJAgBSExNtQTWvlobr5tr///////////////////78////
+/f78//////////8A//////7+/v7+//7//v7+/v7+////////6+bahEsshEMi98/B////Eqty
+AFoBeDsApjwAl1IAjFkBjFIDfUUDeDsAXSQDSQIAMQAASQIAbj4mr5aG//////////////3+
+/v////79/v//////////AP/////9/vz///7+///+/f////////Dk0VoXARsAAMqTd////4rn
+0wBmEpdYAstRALlpAJNmAZxcApdYApFWBIxSA4xSA4BSAXg7AFMNADEAABsAAJNnT/3+9///
+//////7//vz9//7//////////wD////////////9/f3////////w5NFYBwAbAACEQyL////i
+//0Fj1kAeC/EZwG5aQCoZwGfYgGfYgGfYgGXWAKRVgSMUgOESwV9RQOESwV9RQNTDQAbAACH
+WkX////////////+//7+//////////8A/////v///P//////////5NfFZQ8ASQIASQIAtJFx
+////yfTsAINGK4Q8xGcBuWkAq2sBqGcBqGcBqGcBn2IBnFwCl1gCkVYEjFIDfUUDfUUDfUUD
+XSQDMQAAbUE1///+/////P//////////////AP////z//f////////Xs5IRLLDEAAHg7AEkC
+AL6jjv///73q4QB4LyuEPNRlAMRnAatrAahnAatrAahnAahnAaNlAp9iAZxcApdYAoxSA4RL
+BX1FA31FA1oXATEAAG1BNf////////7///z//////wD////+//////////+of2RJAgBpJwOE
+SwVJAgC0kXH////J9OwAeC8AeC/EZwHUZQCrawGebgKrawGrawGrawGoZwGjZQKfYgGcXAKX
+WAKMUgOESwV9RQN9RQNJAgAxAADKtKX////////+//////8A////////////////ezwaMQAA
+mGYNiFUOWAcAhEMi//38////Ta5wAGYSW3Yf6GIA1GUApWsBpWsBpWsBq2sBq2sBq2sBo2UC
+n2IBn2IBl1gCjFIDfUUDhEsFcDUASQIAWhcB/Pr0////////////AP///////////////55y
+VUkCAHAtAJFbDXg7AFgHAMq0pf///+L//QB4LwB4L4xkAOhiANRlAMRnAblpAKtrAatrAatr
+AahnAahnAaNlApxcApdYAoxSA4RLBX1FA10kAxsAALSRcf///////////wD////////17OT/
+///38tuEQyJJAgB9RQORVgRlDwCESyz17OT///+o2b8Ag0YAeC90bg7UZQDUZQDUZQC5aQCr
+awGrawGrawGoZwGoZwGfYgGcXAKRVgSESwWESwVwNQBJAgBdJAPr5tr///////8A////////
+j14kq4ZZ////////nnJVSQIAWhcBcDUAWhcBhEsF8+rZ////4v/9KrqNAHgvAGYSW3YfmHQY
+6GIA1GUAq2sBpWsBq2sBqGcBqGcBn2IBnFwCjFIDhEsFfUUDXSQDMQAAvqOO////////AP//
+/////3s8GkkCAKuGWf////////T09JRpM3AtAFgHADEAAEkCAMqTd////////8n//xKrcgBm
+EgB4L0l+MMRnAehiAMRnAZ5uAqtrAahnAaNlApxcApdYAoxSA4RLBXg7ADEAAJ5yVfz69P//
+/wD////6+uh7PBpaFwFpJwOUaTPYyab////////////e0LaeclVpJwNlDwCESwXlqoT17OTw
+/f+P07IAeC8AeC8SiEWdcRDoYgDEZwGebgKoZwGoZwGfYgGcXAKRVgSESwV9RQMxAABuPibr
+5tr///8A////3tC2eDsAfUUDeDsAaScDeDsApoE/zrmZ8+rZ9/Lb+vro/P3/0L64tJFxyKyD
+98/B////////qNm/BIc4AINGEohFmHQY6GIAuWkApWsBqGcBo2UCnFwCl1gCjFIDhEsFUw0A
+XSQD2M3C////AP///9DAm3A1AH1FA5VqDIxZAXg7AHAtAHA1AH1FA595LMu3i/DpzPr66PDk
+0djJptjJpvPq2f///////4/TsgB4LwCDRgGMUZ1xEOhiAKtrAaVrAahnAZ9iAZxcApFWBIRL
+BVoXAV0kA9THvP///wD////OuZl4OwB9RQOOYg6VagyZbQqTZgGMUgN9RQNwLQBaFwFaFwFw
+NQCMWQGriETPvZXr5tr///////////8xnmIAeC8BjFESiEXEZwHEZwGrawGoZwGjZQKfYgGX
+WAKESwVaFwFdJAPUx7z///8A////0MCbeDsAhEsFmGYNlWoMk2YBjFkBfUUDfUUDjFIDm3Ij
+q4hEt5dJuJhXyKyD5NfF/fj0////////////j9OyBIc4AHgvBY9ZSX4w1GUAuWkAqGcBo2UC
+n2IBnFwCjFIDWhcBaScD1Me8////AP///9jJpoRLBYxZAZNmAX1FA3A1AIBSAauIRMWvdOXc
+tv////////////////r66Mu3i97Qtv///////////8vs3TGeYgB4LwGMURKIRcRnAcRnAblp
+AKNlAp9iAZxcApFWBFoXAWUyDtjNwv///wD////q4LuESwVpJwNwNQCZbQrPvZX38tv/////
+///////////k2K24mFePXiSMZADFr3Tw7+/////////////v+/ZNrnAEhzgBjFEAg0aZbQrU
+ZQC5aQClawGjZQKcXAKRVgRaFwFlMg7d1cr///8A////////eDsAeDsAxa90+vro////////
+9ezk5Nitxa90lGkzeDsAgFIBpoE/y7eL9ezk/////v//////////1/LlObh7FZVMFJVbAYxR
+W3YfxGcBuWkAqGcBo2UCn2IBjFkBSQIAh1pF9ezk////AP///////6uIRMu3i/////////Dk
+0biYV5tyI4xkAHA1AF0kA45iDtHEkP////////////////z//////////4/TsiixcDCrZzGe
+YgGMUTd/M8RnAcRnAahnAaNlAp9iAYRLBUkCAK+Whv///////wD////////6+uj////////F
+r3SAUgF4OwCAUgGAUgGIXAC/qkr9/vf////////////////9/f3///////////85uHsosXBF
+vYQ2rHIFj1krhDy5aQDEZwGoZwGjZQKcXAJwLQBaFwHYzcL///////8A/////P//////////
+t5dJaScDgFIBrI8KpIUAk2YB0MR5/////////////////P//////////////////cs6gIatp
+Rb2EXcaTObh7BptjK4Q8xGcBxGcBo2UCn2IBl1IAZQ8Ak2dP/Pz8////////AP/////9/v//
+//Pq2ZRpM31FA6yPCqyPCohcAMm3Xf///v////n///////////////////////3+92jHnAel
+V0W9hF7JlF3Gk0W9hBKrcjd/M7teALteAKNlAp9iAXg7AFMNAOTXxf///////////wD/////
+//////////+feSx4OwCsjwqkhQCMZADl3Lb////////////////////////k9u+P07I5uHsh
+q2lFvYRZw41TxpBZw40/x5YSq3JJfjC7XgC7XgCrdAB9RQNTDQCTZ0/////////8//////8A
+/////v/+/v//////2MmmjGQAjFkBrI8KkGwA3daf////////8/j3y+zdqNm/cs6gRb2EKLFw
+KLFwRb2EXcaTU8aQWcONXcaTP8eWKrqNdG4Ou14AuWkAl1gCUw0AaScD/f73////////////
+////AP////7//vz//////////9XIkIxkAJV0AJBsALmnNf3+9////7Dp1gelVyixcCixcCGr
+aTm4e1nDjV7JlFPGkFPGkFnDjV7JlDXVpCq6jbteALteAJdSAFMNAGknA87KtP//////////
+/////////wD//////f78///+///////////QxHmQbACMZACQbADq4Lv///+w6dYEhzgHpVc5
+uHtdxpNeyZRdxpNTxpBWyJJTxpBZw41P27Ez6bdNrnDLUQCXUgBlDwBaFwHKtKX/////////
+//7+//7///////8A//////79//7//P///v//////////0MR5lXQAgFIBuac1////////sOnW
+KLFwHrZxRb2EXcaTUMmPVsiSVsiSWcONWc2ZOfnSS9+flWoMpjwAUw0AWhcB0L64////////
+/////P/9//38///+////AP////z////9/v7//v/9/v/9/v////////v2z7mnNYBSAayPCv//
+/////+T272jHnBKrchKrckW9hFDJj1bIklnNmTn50kvfn4hVDpUCAEkCAJRpM/Xs5P//////
+//////39/f/9/vz//////////wD////////////////+///+///+///////////////VyJCV
+dACkhQD38tv////////L7N1yzqA5uHsetnEetnEK1ZItmkNpJwOVAgCTZ0/OyrT/////////
+///8//////////////////////////8A/////////////////////////v///P/9////////
+////6uC7ybdd3dKH////////////7/v21/Lly+zdsOnWsOnW0MCb5aqE7cWz8/j3////////
+////////////////////////////////////AP////////////////////////7///n////9
+/v7//v////////////DpzP/+/v7////////////////////////////9/v//////////////
+/////////////////////////////////////////wD/////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////8A////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////AA==</BINDATA>
+<BINDATA Size="84377" Encoding="Base64" Id="3">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</BINDATA>
+<BINDATA Size="252903" Encoding="Base64" Id="4">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</BINDATA>
+<BINDATA Size="252903" Encoding="Base64" Id="5">iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABqklEQVR42u2YTarDMAyEDb6WQVcX6FoCdWYSmrSPt7Ogi6RZ1PkC/tGMpHbUf9d4yEN+hvgY0y3HmpVrGIctJHTrhSif57CBYBQ5c5kbvwo2EV9rDMu1rJnwPAsLGdZHcCcCthA9+3PW+4hCdl1f2tlHeOEsGT5sN768sI84ThHjxLz+3mwHoS70xmTgUoMOYkkHU/BQyyLuITRVTqgQeQIbjogeAoGAYXbIcTo+1ULS0rDdUNqbdXPWXuLH5DzR86XqIlgFH5cWMitaCA0VkiP2qtphLaQOgRT3uhjFK1NsJbASK0ZAhE6tHBLZT0rPXVPTX0i1LcRNJk4lphyjjTBaqrGHQiSVBgLh6RxVBJkx3g7eS3CYRedSh8Fa2EQ46+lgVb+4FLKVpLI4GhRClafoISyyzlILkaReaCGRdiyDLmbbZdFCTmvpMVQ5bg7eTKj6UsJjOffbCnYSygIGZjJS7+Ufvdg+opZR5W8tneq7Mm0mKq1MeyxPWk4bibPzokKuyDUQblCKVF7qIYTHrz0u5Z75thJ1+Jid5qXc87P330ae/wIe8svkBSHIfN9ImGg6AAAAAElFTkSuQmCC</BINDATA>
+</BINDATASTORAGE>
+</TAIL>
+</HWPML>
